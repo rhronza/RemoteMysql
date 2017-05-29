@@ -16,7 +16,9 @@ public class CustomerBrowser {
 
     /**
      * projekt byl upraven pro tabulku Zamestnanci databáze rhrtest
-     */
+     sem přidávím komentář */
+    
+    
     public static void main(String[] args) {
         Customers customers = new Customers();
         Scanner sc = new Scanner(System.in, "Windows-1250");
