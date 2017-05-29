@@ -16,7 +16,7 @@ public class CustomerBrowser {
 
     /**
      * projekt byl upraven pro tabulku Zamestnanci databáze rhrtest
-     sem přidávím komentář */
+     */
     
     
     public static void main(String[] args) {
